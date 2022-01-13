@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3820109218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dd48169bd623789c547385c57010191
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Music/Aero Chord feat. DDARK - Shootin Stars.mp3
+- Assets/Music/Alther - Fire.mp3
+- Assets/Music/Danya Vodovoz - How About You [Royalty Free].mp3
+Dependencies: []
