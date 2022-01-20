@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2465287075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06db21f50ceef9322092658878d94089
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df6a7f79f5b23c6edd2e78801d64f615
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9635af3fd3269a4ab3b1d50bc3add22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86883793a24ab9e45bb90f41e0e6ddfb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6ebb8247c3f2944187f3e7a8388d04d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a1941ad13696b9478951fef64ee3f6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Object/AddressablePrefab/Particles/Rainbow.prefab
+- Assets/Object/AddressablePrefab/Material/Material_Ground.mat
+- Assets/Object/AddressablePrefab/Particles/Explosion.prefab
+- Assets/Object/AddressablePrefab/GameObject/Ship_1.prefab
+- Assets/Object/AddressablePrefab/GameObject/Ground.prefab
+- Assets/Object/AddressablePrefab/Material/Skyboxes_Material.mat
+- Assets/Object/AddressablePrefab/Material/Glow_Right.mat
+- Assets/Object/AddressablePrefab/GameObject/SunRetro.prefab
+- Assets/Object/AddressablePrefab/Material/Material_Mountain.mat
+- Assets/Object/AddressablePrefab/GameObject/Obtacles.prefab
+- Assets/Object/AddressablePrefab/Particles/Combo_Collided_Effect.prefab
+- Assets/Object/AddressablePrefab/Material/Glow_Up.mat
+- Assets/Object/AddressablePrefab/Material/Glow_Down.mat
+- Assets/Object/AddressablePrefab/GameObject/Obtacles_Guide.prefab
+- Assets/Object/AddressablePrefab/Particles/Star.prefab
+- Assets/Object/AddressablePrefab/Material/Glow_Left.mat
+- Assets/Object/AddressablePrefab/GameObject/Mountain.prefab
+Dependencies: []
