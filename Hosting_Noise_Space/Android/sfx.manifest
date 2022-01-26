@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3513792564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdf8e20cbc07af5467896fd05f34d222
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Music/Victory_SFX.mp3
+- Assets/Resources/Music/Hit_Stamp_SFX.mp3
+- Assets/Resources/Music/Button_Click_05.mp3
+Dependencies: []

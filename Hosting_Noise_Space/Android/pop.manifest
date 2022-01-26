@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 578651145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41d77f39e6698af077784b97f216a1e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Music/34.mp3
+- Assets/Resources/Music/31.mp3
+- Assets/Resources/Music/41.mp3
+- Assets/Resources/Music/44.mp3
+- Assets/Resources/Music/37.mp3
+- Assets/Resources/Music/36.mp3
+- Assets/Resources/Music/30.mp3
+- Assets/Resources/Music/39.mp3
+- Assets/Resources/Music/29.mp3
+- Assets/Resources/Music/42.mp3
+- Assets/Resources/Music/35.mp3
+- Assets/Resources/Music/33.mp3
+- Assets/Resources/Music/40.mp3
+- Assets/Resources/Music/38.mp3
+- Assets/Resources/Music/32.mp3
+- Assets/Resources/Music/43.mp3
+Dependencies: []
