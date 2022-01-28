@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 752091817
+CRC: 3802536233
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3a04a0fcf90231c5b77f7c3d30078ce
+    Hash: 74db3a17c32277ffcfeac7ad50f827be
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,19 +13,19 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/80.mp3
-- Assets/Resources/Music/82.mp3
-- Assets/Resources/Music/76.mp3
-- Assets/Resources/Music/90.mp3
-- Assets/Resources/Music/81.mp3
-- Assets/Resources/Music/87.mp3
-- Assets/Resources/Music/86.mp3
-- Assets/Resources/Music/88.mp3
-- Assets/Resources/Music/83.mp3
-- Assets/Resources/Music/78.mp3
-- Assets/Resources/Music/85.mp3
-- Assets/Resources/Music/79.mp3
-- Assets/Resources/Music/77.mp3
-- Assets/Resources/Music/84.mp3
-- Assets/Resources/Music/89.mp3
+- Assets/Resources/Music/Venatici - Somewhere in Between.mp3
+- Assets/Resources/Music/Alther - Fire.mp3
+- Assets/Resources/Music/Onlap - The Awakening.mp3
+- Assets/Resources/Music/Orchards - Butterfly (Crazy Town Cover).mp3
+- Assets/Resources/Music/AVIIRA - Tyranny.mp3
+- Assets/Resources/Music/Impale - Ghost.mp3
+- Assets/Resources/Music/Dawn Won't Come - Alice in Wasteland.mp3
+- Assets/Resources/Music/Ravenface - Tyrants and Kings.mp3
+- Assets/Resources/Music/Highway Saints - In This Moment.mp3
+- Assets/Resources/Music/Carry The Day - Backup Plan.mp3
+- Assets/Resources/Music/Sidewise - Come with Me.mp3
+- Assets/Resources/Music/Barbie Sailers - Follow.mp3
+- Assets/Resources/Music/Coded - Moments Of Madness.mp3
+- Assets/Resources/Music/Prophecies - Hourglass.mp3
+- Assets/Resources/Music/Shield Breaker - Evolution.mp3
 Dependencies: []

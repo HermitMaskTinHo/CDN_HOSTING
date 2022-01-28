@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1771958932
+CRC: 4198276019
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f355f06e3e67c3eb354b614be9cba55b
+    Hash: 5c1c0d5cd2fdec045ea78cc385192b2f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,24 +13,24 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/74.mp3
-- Assets/Resources/Music/72.mp3
-- Assets/Resources/Music/68.mp3
-- Assets/Resources/Music/69.mp3
-- Assets/Resources/Music/58.mp3
-- Assets/Resources/Music/75.mp3
-- Assets/Resources/Music/66.mp3
-- Assets/Resources/Music/65.mp3
-- Assets/Resources/Music/57.mp3
-- Assets/Resources/Music/61.mp3
-- Assets/Resources/Music/62.mp3
-- Assets/Resources/Music/59.mp3
-- Assets/Resources/Music/73.mp3
-- Assets/Resources/Music/71.mp3
-- Assets/Resources/Music/56.mp3
-- Assets/Resources/Music/63.mp3
-- Assets/Resources/Music/60.mp3
-- Assets/Resources/Music/70.mp3
-- Assets/Resources/Music/67.mp3
-- Assets/Resources/Music/64.mp3
+- Assets/Resources/Music/RYYZN - The Clock.mp3
+- Assets/Resources/Music/Luka - Pistol ft UNO Way.mp3
+- Assets/Resources/Music/H.G $wagg - Thought I Died.mp3
+- Assets/Resources/Music/JPB - Long Night pt II ft M.I.M.E & Drama B.mp3
+- Assets/Resources/Music/Neffex - light it up.mp3
+- Assets/Resources/Music/Unoway - M.A.F.mp3
+- Assets/Resources/Music/Rexxo - Its Lit.mp3
+- Assets/Resources/Music/Neffex - Blow Up.mp3
+- Assets/Resources/Music/Neffex - Best of Me.mp3
+- Assets/Resources/Music/Neffex - Unstoppable.mp3
+- Assets/Resources/Music/Neffex - Solider.mp3
+- Assets/Resources/Music/NEFFEX - Rumors.mp3
+- Assets/Resources/Music/ThatBoy Tiny - Goodbye Pt. 2.mp3
+- Assets/Resources/Music/JustoThaGod - Run It Up.mp3
+- Assets/Resources/Music/H.G Rambo - Remember.mp3
+- Assets/Resources/Music/Neffex - Careless.mp3
+- Assets/Resources/Music/Neffex - That's What It Takes.mp3
+- Assets/Resources/Music/Neffex - Crown.mp3
+- Assets/Resources/Music/Yung Raf - Suicidal Tendencies.mp3
+- Assets/Resources/Music/Neffex - Grateful.mp3
 Dependencies: []

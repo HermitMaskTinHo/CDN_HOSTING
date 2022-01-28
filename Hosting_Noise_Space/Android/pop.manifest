@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 578651145
+CRC: 502329520
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 41d77f39e6698af077784b97f216a1e4
+    Hash: 377081161505a679323bd1292243efd5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,20 +13,20 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/34.mp3
-- Assets/Resources/Music/31.mp3
-- Assets/Resources/Music/41.mp3
-- Assets/Resources/Music/44.mp3
-- Assets/Resources/Music/37.mp3
-- Assets/Resources/Music/36.mp3
-- Assets/Resources/Music/30.mp3
-- Assets/Resources/Music/39.mp3
-- Assets/Resources/Music/29.mp3
-- Assets/Resources/Music/42.mp3
-- Assets/Resources/Music/35.mp3
-- Assets/Resources/Music/33.mp3
-- Assets/Resources/Music/40.mp3
-- Assets/Resources/Music/38.mp3
-- Assets/Resources/Music/32.mp3
-- Assets/Resources/Music/43.mp3
+- Assets/Resources/Music/Andrew Applepie - Secrets.mp3
+- Assets/Resources/Music/Good Gasoline - Stay Young.mp3
+- Assets/Resources/Music/RYYZN - Come Over.mp3
+- Assets/Resources/Music/Learly - Shine.mp3
+- Assets/Resources/Music/Jeris - Get Lost.mp3
+- Assets/Resources/Music/Lou & J2x - Gentleman.mp3
+- Assets/Resources/Music/Le Winter - The Mind ft. Hampus Ewel.mp3
+- Assets/Resources/Music/Jay Someday - One Love.mp3
+- Assets/Resources/Music/Teen Asty - Dancing In The Rain.mp3
+- Assets/Resources/Music/The Moose - With You.mp3
+- Assets/Resources/Music/Revoic ft. Neha Arora - Jane Ja.mp3
+- Assets/Resources/Music/Leonell Cassio - Lie 2 You ft. Dylan Emmet.mp3
+- Assets/Resources/Music/Sad Puppy - Brave.mp3
+- Assets/Resources/Music/Oscar Raga - Haka Haka Haka (Move Your Body).mp3
+- Assets/Resources/Music/Eric Lam - Midnight.mp3
+- Assets/Resources/Music/Duplex Bassline - Nightlife ft. Rina.mp3
 Dependencies: []

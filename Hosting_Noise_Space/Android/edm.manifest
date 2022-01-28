@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1678444964
+CRC: 2894200944
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e404ff45aff3f02a4ce443fd292a2a4
+    Hash: d3d6f2332ffe2f85cbbdd282cf6432f8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,26 +13,26 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/12.mp3
-- Assets/Resources/Music/22.mp3
-- Assets/Resources/Music/4.mp3
-- Assets/Resources/Music/13.mp3
-- Assets/Resources/Music/21.mp3
-- Assets/Resources/Music/14.mp3
-- Assets/Resources/Music/2.mp3
-- Assets/Resources/Music/5.mp3
-- Assets/Resources/Music/18.mp3
-- Assets/Resources/Music/8.mp3
-- Assets/Resources/Music/19.mp3
-- Assets/Resources/Music/6.mp3
-- Assets/Resources/Music/3.mp3
-- Assets/Resources/Music/7.mp3
-- Assets/Resources/Music/10.mp3
-- Assets/Resources/Music/11.mp3
-- Assets/Resources/Music/1.mp3
-- Assets/Resources/Music/9.mp3
-- Assets/Resources/Music/20.mp3
-- Assets/Resources/Music/17.mp3
-- Assets/Resources/Music/16.mp3
-- Assets/Resources/Music/15.mp3
+- Assets/Resources/Music/The Futurists - No More.mp3
+- Assets/Resources/Music/Lost Sky - Fearless pt.II (feat. Chris Linton).mp3
+- Assets/Resources/Music/ElementD & Chris Linton - Ascend.mp3
+- Assets/Resources/Music/Electro Light - Symbolism.mp3
+- Assets/Resources/Music/Jim Yosef & Alex Skrindo - Passion.mp3
+- Assets/Resources/Music/TheFatRat - MAYDAY feat. Laura Brehm.mp3
+- Assets/Resources/Music/Tobu - Hope.mp3
+- Assets/Resources/Music/Aero Chord feat. DDARK - Shootin Stars.mp3
+- Assets/Resources/Music/Tobjan - Back To Summer.mp3
+- Assets/Resources/Music/Siimi - Here For Me (feat. m els).mp3
+- Assets/Resources/Music/Xaia, Rain Man, Oly - Breakdown.mp3
+- Assets/Resources/Music/DEAF KEV - Invincible.mp3
+- Assets/Resources/Music/Elektronomia - Sky High.mp3
+- Assets/Resources/Music/Zack Merci & Arcana - Love Potion.mp3
+- Assets/Resources/Music/Siberian Express - Talk To Me.mp3
+- Assets/Resources/Music/T & Sugah - Bring Me The Light (feat. Mara Necia).mp3
+- Assets/Resources/Music/Jo Cohen & Sex Whales - We Are.mp3
+- Assets/Resources/Music/ElementD - Giving In (feat. Mees Van Den Berg).mp3
+- Assets/Resources/Music/Eclypxe - Black Roses (ft.Annamarie Rosanio).mp3
+- Assets/Resources/Music/Disfigure - Blank.mp3
+- Assets/Resources/Music/LFZ - Popsicle.mp3
+- Assets/Resources/Music/Julius Dreisig & Zeus X Crona - Invisible.mp3
 Dependencies: []

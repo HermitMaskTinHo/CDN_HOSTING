@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2257816780
+CRC: 1224036609
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d65a64ec8fd879601c65afd552ee4849
+    Hash: 60f67fdc840b77885655562c10828426
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/28.mp3
+- Assets/Resources/Music/Danya Vodovoz - The Dealer.mp3
+- Assets/Resources/Music/Trnsmttr - Jazz Flavored Lofi House by Danya Vodovoz.mp3
+- Assets/Resources/Music/Danya Vodovoz - Lowtown Blues.mp3
+- Assets/Resources/Music/Danya Vodovoz - How About You.mp3
+- Assets/Resources/Music/Danya Vodovoz - I Feel For My Brother.mp3
+- Assets/Resources/Music/Danya Vodovoz - F to K (ft.Dennis LeGree).mp3
 Dependencies: []

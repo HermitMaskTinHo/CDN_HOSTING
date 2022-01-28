@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3347762720
+CRC: 4020702484
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f4e45750188316ecc12b715e767806e0
+    Hash: 3cad5ab45f7756c4c209382c33fb7bf0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,15 +13,15 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/53.mp3
-- Assets/Resources/Music/47.mp3
-- Assets/Resources/Music/46.mp3
-- Assets/Resources/Music/52.mp3
-- Assets/Resources/Music/54.mp3
-- Assets/Resources/Music/50.mp3
-- Assets/Resources/Music/49.mp3
-- Assets/Resources/Music/48.mp3
-- Assets/Resources/Music/51.mp3
-- Assets/Resources/Music/45.mp3
-- Assets/Resources/Music/55.mp3
+- Assets/Resources/Music/Danya Vodovoz - The Heat.mp3
+- Assets/Resources/Music/Bushey - Ask Me.mp3
+- Assets/Resources/Music/HaTom - Go.mp3
+- Assets/Resources/Music/General Vibe - Miss Emeli.mp3
+- Assets/Resources/Music/Revelries & Henri Purnell - Feel It Still.mp3
+- Assets/Resources/Music/Danya Vodovoz - Starlight.mp3
+- Assets/Resources/Music/Yapay - Bilsen.mp3
+- Assets/Resources/Music/CXNST - What You Did.mp3
+- Assets/Resources/Music/Jay Someday - Rewind.mp3
+- Assets/Resources/Music/Kronicle - Cool Blue Light.mp3
+- Assets/Resources/Music/Ryyzn-Flood.mp3
 Dependencies: []
